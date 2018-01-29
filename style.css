@@ -50,7 +50,7 @@ body {
 
 .project {
   flex: 0 0 140px;                /* No grow/shrink, 140px width */
-  height: 140px;
+  height: 120px;
   margin-bottom: 10px;
   background-color: #7AA3CC;
 }
